@@ -1,0 +1,157 @@
+:root{
+    /*Creo un color llamado --color-FiQ*/
+    --color-FiQ:  #58d68d;
+    /*Creo un color llamado --color-Bio*/
+    --color-Bio:  #5899d6;
+    /*Creo un color llamado --color-Valen*/
+    --color-Valen:#f75333;
+    /*Creo un color llamado --color-Mates*/
+    --color-Mates:#0008ff;
+    /*Creo un color llamado --color-InglesOral*/
+    --color-InglesOral:#f0f01d;
+    /*Creo un color llamado --color-Ingles*/
+    --color-Ingles:#0fd6f1;
+    /*Creo un color llamado --color-Caste*/
+    --color-Caste:#ff00f3;
+    /*Creo un color llamado --color-GiH*/
+    --color-GiH:#00ff0c;
+    /*Creo un color llamado --color-Info*/
+    --color-Info:#e2ccb8;
+    /*Creo un color llamado --color-Reli*/
+    --color-Reli: #854afb;
+    /*Creo un color llamado --color-EF*/
+    --color-EF: #4afbd0;
+    /*Creo un color llamado --color-Tutoria*/
+    --color-Tutoria: #4f327c;
+}
+.nomenclatura-FiQ{
+    /* Utilizo el color que he creado antes (--color-FiQ)*/
+    background-color: var(--color-FiQ);
+    width: 50px;
+}
+
+.nomenclatura-Bio{
+    /* Utilizo el color que he creado antes (--color-Bio)*/
+    background-color: var(--color-Bio);
+    width: 50px;
+}
+
+.nomenclatura-Valen{
+    /* Utilizo el color que he creado antes (--color-Valen)*/
+    background-color: var(--color-Valen);
+    width: 50px;
+}
+
+.nomenclatura-Mates{
+    /* Utilizo el color que he creado antes (--color-Mates)*/
+    background-color: var(--color-Mates);
+    width: 50px;
+}
+
+.nomenclatura-InglesOral{
+    /* Utilizo el color que he creado antes (--color-InglesOral)*/
+    background-color: var(--color-InglesOral);
+    width: 50px;
+}
+
+.nomenclatura-Ingles{
+    /* Utilizo el color que he creado antes (--color-Ingles)*/
+    background-color: var(--color-Ingles);
+    width: 50px;
+}
+
+.nomenclatura-Caste{
+    /* Utilizo el color que he creado antes (--color-Caste)*/
+    background-color: var(--color-Caste);
+    width: 50px;
+}
+
+.nomenclatura-GiH{
+    /* Utilizo el color que he creado antes (--color-GiH)*/
+    background-color: var(--color-GiH);
+    width: 50px;
+}
+
+.nomenclatura-Info{
+    /* Utilizo el color que he creado antes (--color-Info)*/
+    background-color: var(--color-Info);
+    width: 50px;
+}
+
+.nomenclatura-Caste{
+    /* Utilizo el color que he creado antes (--color-Caste)*/
+    background-color: var(--color-Caste);
+    width: 50px;
+}
+
+.nomenclatura-Tutoria{
+    /* Utilizo el color que he creado antes (--color-Tutoria)*/
+    background-color: var(--color-Tutoria);
+    width: 50px;
+}
+
+.nomenclatura-EF{
+    /* Utilizo el color que he creado antes (--color-EF)*/
+    background-color: var(--color-EF);
+    width: 50px;
+}
+
+.nomenclatura-Reli{
+    /* Utilizo el color que he creado antes (--color-Reli)*/
+    background-color: var(--color-Reli);
+    width: 50px;
+}
+
+
+.color-FiQ{
+    background-color: var(--color-FiQ);
+}
+.color-Bio{
+    background-color: var(--color-Bio);
+}
+.color-Valen{
+    background-color: var(--color-Valen);
+}
+.color-InglesOral{
+    background-color: var(--color-InglesOral);
+}
+.color-Mates{
+    background-color: var(--color-Mates);
+}
+.color-Ingles{
+    background-color: var(--color-Ingles);
+}
+.color-Reli{
+    background-color: var(--color-Reli);
+}
+.color-Caste{
+    background-color: var(--color-Caste);
+}
+.color-Info{
+    background-color: var(--color-Info);
+}
+.color-GiH{
+    background-color: var(--color-GiH);
+}
+.color-EF{
+    background-color: var(--color-EF);
+}
+.color-Tutoria{
+    background-color: var(--color-Tutoria);
+}
+body{
+    font-family: 'Beau Rivage', cursive;
+    
+}
+.tabla-horario{
+    border-collapse: collapse;
+}
+.tabla-horario  td, .tabla-horario  th{
+    border: 1px solid black;
+    padding: 10px;
+}
+table{
+    margin: 30px auto;
+    text-align: center;
+}
+
